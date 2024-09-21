@@ -1,4 +1,6 @@
 # React + Vite
+<h1>Visit the site : https://namasteeindia.netlify.app/</h1>
+
 <h1>To run the project run these command </h1>
 <h3> npm install</h3>
 <h3>npm i styled-components</h3>
