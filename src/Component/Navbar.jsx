@@ -10,7 +10,7 @@ const Navbar = () => {
         <ul>
           <li>
             <NavLink
-              to="/home"
+              to="/"
               style={{ textDecoration: "none", color: "#ffffff" }}
             >
               <img
@@ -23,7 +23,7 @@ const Navbar = () => {
           </li>
           <li>
             <NavLink
-              to="/home"
+              to="/"
               style={{ textDecoration: "none", color: "#ffffff" }}
             >
               <span>Home</span>
